@@ -8,7 +8,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/Darkrulex?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Abu_Bakkar?color=%23ff130c&label=%40BakkarxD&style=for-the-badge)
 
-#Commands 
+###𝐑𝐔𝐍
+
 pkg update
 
 pkg upgrade
